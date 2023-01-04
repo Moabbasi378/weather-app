@@ -18,7 +18,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 git clone https://github.com/Moabbasi378/weather-app
 
 
-cd Hangman
+cd weather-app
 
 
 npm install
@@ -32,7 +32,7 @@ npm start
 
 ## Demo:
 
-- [Click Here](https://strong-smakager-afa0f1.netlify.app/) to see and use a demo of the app.
+- [Click Here](https://helpful-naiad-116e60.netlify.app/) to see and use a demo of the app.
 
 ## ![screenshot](./src/images/Screenshot.png "ScreenShot")
 
