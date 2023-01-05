@@ -3,7 +3,7 @@ import { Panel } from "./componants/pannel/Panel";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Panel />
     </div>
   );
